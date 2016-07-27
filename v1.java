@@ -9,7 +9,7 @@ static int i,s;
 public static void main(String[] args)
 {
 	s=in.nextInt();
-	for(i=1;i<=s.legth;i++)
+	for(i=1;i<=s.length;i++)
 	{
 		fact=fact*i;
 		
